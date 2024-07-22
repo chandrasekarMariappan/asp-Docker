@@ -21,7 +21,7 @@
     "merge-stream": "^2.0.0",
     "node-sass": "4.13.0",
     "npm": "6.13.6",
-    "requirejs": "2.3.6",
+    "requirejs": "2.3.7",
     "shelljs": "0.8.3",
     "tslint": "5.20.1",
     "tslint-html-report": "2.0.3",
